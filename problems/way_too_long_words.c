@@ -1,5 +1,5 @@
 /* 
- * Author 		: Ahmed Sellami
+ * Author 	: Ahmed Sellami
  * Problem-Name : A. Way Too Long Words
  * Problem-Link : https://codeforces.com/problemset/problem/71/A 
 */
